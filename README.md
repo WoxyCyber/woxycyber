@@ -1,3 +1,7 @@
+
+<img src="https://count.getloli.com/get/@:WoxyCyber?theme=rule34" alt=":WoxyCyber" />
+
+
 ```js
 class Woxy{
   constructor(...options) {
@@ -20,5 +24,3 @@ class Cyber{
   }
 }
 ```
-
-<img src="https://count.getloli.com/get/@:WoxyCyber?theme=rule34" alt=":WoxyCyber" />
